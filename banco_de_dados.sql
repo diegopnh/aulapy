@@ -1,0 +1,2 @@
+UPDATE jsaksaj 
+DELETE jsaksa   
